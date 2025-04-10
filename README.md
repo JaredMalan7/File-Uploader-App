@@ -17,7 +17,7 @@ Users can interact with the following features:
 **Jared Malan**  
 Student @ Brigham Young University–Idaho
 ---
-### [YouTube Video Demo]()
+### [YouTube Video Demo](https://youtu.be/F9r5fl2Qazk)
 
 ---
 
